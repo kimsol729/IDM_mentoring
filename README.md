@@ -1,1 +1,2 @@
-# IDM_mentoring
+## IDM_mentoring
+### an introduction to Infectious Disease Modelling
